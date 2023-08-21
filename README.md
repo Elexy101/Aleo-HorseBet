@@ -1,2 +1,13 @@
-# Aleo-HorseBet
-A simple-test gaming project on Aleo Blockchain using Leo-wallet adapter, Aleo programming language. Player can choose a horse icon and bid a token to begin game. rewards is claimable via the Aleo execute and record is stored privately... more updates coming soon...
+# horsebet2.aleo
+
+## Build Guide
+
+To compile this Aleo program, run:
+```bash
+snarkvm build
+```
+
+To execute this Aleo program, run:
+```bash
+snarkvm run hello
+```

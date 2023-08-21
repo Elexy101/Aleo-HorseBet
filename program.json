@@ -1,0 +1,10 @@
+{
+    "program": "horsebet2.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkp8tVkFCvKFBm6ETyv7i25RLgLtRo71MX3t5TgkKnuEDDx",
+        "address": "aleo1xn3hfz6xt3p24q2w43zl5pr5cc54y332sseqwtdluvydd0j0wq8s7lrfus"
+    },
+    "license": "MIT"
+}
